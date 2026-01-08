@@ -47,20 +47,9 @@ dice_roller/
 ```bash
 flutter pub get
 flutter run
-
+```
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK installed
-- Android Studio / VS Code
-- Emulator or physical device
-
-### Run the App
-```bash
-flutter pub get
-flutter run
 📸 Screenshots
 ![Dice Rolled](screenshots/dice_roll.png)
 
