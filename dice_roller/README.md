@@ -1,16 +1,82 @@
-# day2
+# 🎲 Dice Roller App
 
-A new Flutter project.
+A simple and fun **Flutter Dice Roller app** built to practice Flutter basics like widgets, state management, and asset handling.
 
-## Getting Started
+This app displays a dice image and changes it randomly each time the user taps the button.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
+- 🎲 Roll a dice with a button tap
+- 🔁 Random dice number generation
+- 🖼️ Dice images loaded using Flutter assets
+- 🎨 Clean and minimal UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Flutter**
+- **Dart**
+
+---
+
+## 📂 Project Structure
+dice_roller/
+├── lib/
+│ └── main.dart
+├── assets/
+│ ├── dice-1.png
+│ ├── dice-2.png
+│ ├── dice-3.png
+│ ├── dice-4.png
+│ ├── dice-5.png
+│ └── dice-6.png
+├── pubspec.yaml
+└── README.md
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / VS Code
+- Emulator or physical device
+
+### Run the App
+```bash
+flutter pub get
+flutter run
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / VS Code
+- Emulator or physical device
+
+### Run the App
+```bash
+flutter pub get
+flutter run
+📸 Screenshots
+![Dice Rolled](screenshots/dice_roll.png)
+
+📚 What I Learned
+Flutter widget tree
+Stateless vs Stateful widgets
+Using setState()
+Working with assets in Flutter
+Basic Git & GitHub workflow
+
+🌱 Future Improvements
+Add dice rolling animation
+Improve UI design
+Add sound effects
+
+👩‍💻 Author
+Bhumika Gupta
+Second-year BTech IT student
+Learning Flutter & app development 🚀
