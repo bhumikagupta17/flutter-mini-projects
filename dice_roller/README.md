@@ -50,28 +50,28 @@ flutter run
 ```
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 ![Dice Rolled](screenshots/dice_roll.png)
 
 ---
 
-##📚 What I Learned
--Flutter widget tree
--Stateless vs Stateful widgets
--Using setState()
--Working with assets in Flutter
--Basic Git & GitHub workflow
+## 📚 What I Learned
+- Flutter widget tree
+- Stateless vs Stateful widgets
+- Using setState()
+- Working with assets in Flutter
+- Basic Git & GitHub workflow
 
 ---
 
-##🌱 Future Improvements
--Add dice rolling animation
--Improve UI design
--Add sound effects
+## 🌱 Future Improvements
+- Add dice rolling animation
+- Improve UI design
+- Add sound effects
 
 ---
 
-##👩‍💻 Author
--Bhumika Gupta
--Second-year BTech IT student
--Learning Flutter & app development 🚀
+## 👩‍💻 Author
+- Bhumika Gupta
+- Second-year BTech IT student
+- Learning Flutter & app development 🚀
