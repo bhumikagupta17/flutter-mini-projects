@@ -53,6 +53,8 @@ flutter run
 📸 Screenshots
 ![Dice Rolled](screenshots/dice_roll.png)
 
+---
+
 📚 What I Learned
 Flutter widget tree
 Stateless vs Stateful widgets
@@ -60,10 +62,14 @@ Using setState()
 Working with assets in Flutter
 Basic Git & GitHub workflow
 
+---
+
 🌱 Future Improvements
 Add dice rolling animation
 Improve UI design
 Add sound effects
+
+---
 
 👩‍💻 Author
 Bhumika Gupta
