@@ -4,13 +4,25 @@ A collection of mini Flutter applications built for learning and experimenting w
 
 ## 📌 Current Projects
 
-1. **Dice Roller 🎲**
+### 1. Dice Roller 🎲
 A simple app that simulates rolling dice.
 
 Features:
 - Random dice rolls
 - Interactive UI
 - Built using: StatelessWidget, StatefulWidget, setState(), and Flutter assets.
+- 
+📁 Folder: `dice_roller/`
+
+
+### 2. 🎬 Movie Genre App
+A multi-screen Flutter app that displays movies categorized by genre.
+- Romantic, Thriller, and Comedy movie lists
+- Navigation between screens
+- Reusable custom widgets
+- Network images with error handling
+
+📁 Folder: `movie_genre/`
 
 
 ## 🛠 Tech Stack
