@@ -20,20 +20,22 @@ This app displays a dice image and changes it randomly each time the user taps t
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```text
 dice_roller/
 ├── lib/
-│ └── main.dart
+│   └── main.dart
 ├── assets/
-│ ├── dice-1.png
-│ ├── dice-2.png
-│ ├── dice-3.png
-│ ├── dice-4.png
-│ ├── dice-5.png
-│ └── dice-6.png
+│   ├── dice-1.png
+│   ├── dice-2.png
+│   ├── dice-3.png
+│   ├── dice-4.png
+│   ├── dice-5.png
+│   └── dice-6.png
 ├── pubspec.yaml
 └── README.md
-
+```
 ---
 
 ## 🚀 Getting Started
