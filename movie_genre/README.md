@@ -20,6 +20,16 @@ Built to practice Flutter navigation, reusable UI components, and clean layout d
 - Material UI
 
 ---
+## 📸 Screenshots
+
+<p float="left">
+  <img src="screenshots/home.png" width="200" />
+  <img src="screenshots/romantic.png" width="200" />
+  <img src="screenshots/thriller.png" width="200" />
+  <img src="screenshots/comedy.png" width="200" />
+</p>
+
+---
 
 ## 📚 Concepts Practiced
 - Multi-screen navigation in Flutter
