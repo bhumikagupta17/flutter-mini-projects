@@ -24,6 +24,22 @@ A multi-screen Flutter app that displays movies categorized by genre.
 
 📁 Folder: `movie_genre/`
 
+### 3. 🎵 Spotify Home Screen Clone
+A UI clone of Spotify’s home screen built using Flutter.
+
+**Features**
+- Spotify-style dark UI
+- Grid layout for playlists
+- Horizontal scrolling sections
+- Reusable custom widgets
+
+**Widgets Used**
+- SpotifyAlbum
+- SpotifyArtist
+- SpotifyChip
+- SpotifyIcon
+
+📁 Folder: `spotify_homescreen_clone/`
 
 ## 🛠 Tech Stack
 - Flutter & Dart
@@ -36,6 +52,7 @@ A multi-screen Flutter app that displays movies categorized by genre.
 - Using StatelessWidget vs StatefulWidget
 - Updating UI with setState()
 - Working with assets (images, fonts)
+- Scroll views & grid layouts
 - Basic GitHub workflow for project management
 
 ## 🚀 How to Run
@@ -61,9 +78,9 @@ Run the app:
 ```text
 flutter-mini-projects/
 │
-├─ dice/          # Dice Roller App
-├─ movie_list/    # Movie List App (Coming Soon)
-├─ spotify_clone/ # Spotify HomeScreen Clone (Coming Soon)
+├─ dice_roller/          # Dice Roller App
+├─ movie_genre/    # Movie List App 
+├─ spotify_homescreen_clone/ # Spotify HomeScreen Clone 
 └─ README.md
 ```
 
