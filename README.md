@@ -94,7 +94,3 @@ flutter-mini-projects/
 - Bhumika Gupta
 - Second-year BTech IT student
 - Learning Flutter & app development 🚀
-
-
-
-Perfect! Here's a clean, aesthetic GitHub-style README with badges, perfect for your Flutter mini projects repo:
